@@ -11,3 +11,6 @@ We are going to cluster into 3 nodes:
 <br>M (Monetary): Total amount of transactions (revenue contributed)
 
 
+# Findings
+We have removed the outliers. We merged Frequency,Recency and Monteary.In the plot it clearly says that customers who visiting more has more transactions.
+
