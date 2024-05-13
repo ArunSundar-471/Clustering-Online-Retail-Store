@@ -6,8 +6,8 @@ We have taken the data from Kaggle, all the transaction occurying between 01/12/
 
 # Clustering
 We are going to cluster into 3 nodes:
-R (Recency): Number of days since last purchase
-F (Frequency): Number of tracsactions
-M (Monetary): Total amount of transactions (revenue contributed)
+<br>R (Recency): Number of days since last purchase
+<br>F (Frequency): Number of tracsactions
+<br>M (Monetary): Total amount of transactions (revenue contributed)
 
 
